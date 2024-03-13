@@ -12,6 +12,10 @@ export default function Blogs() {
     console.log(bloges)
     return (
         <div>
+
+            {
+                
+            }
             <h3>hello</h3>
         </div>
     )
