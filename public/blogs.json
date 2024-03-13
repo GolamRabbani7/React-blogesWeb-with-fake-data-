@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co/RzhBHTS/pexels-pixabay-256517.jpg",
+    "title": "The Echoes of Time",
+    "author": "Alexa Jordan",
+    "author_img": "https://i.ibb.co/QML4H9N/pexels-andrea-piacquadio-3779448.jpg",
+    "posted_date": "2024-01-10",
+    "reading_time": 5,
+    "hashtag": ["#fantasy", "#timeTravel"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co/TRYMFH5/pexels-pew-nguyen-239548.jpg",
+    "title": "Shadows Over Mars",
+    "author": "Chris Fielding",
+    "author_img": "https://i.ibb.co/WWTZLcw/pexels-kelvin-valerio-810775.jpg",
+    "posted_date": "2024-02-15",
+    "reading_time": 7,
+    "hashtag": ["#sciFi", "#marsAdventure"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co/SyggvHJ/pexels-mohammad-danish-891059.jpg",
+    "title": "Whispers of the Past",
+    "author": "Jordan Lee",
+    "author_img": "https://i.ibb.co/QKyLvmb/pexels-spencer-selover-428364.jpg",
+    "posted_date": "2024-03-05",
+    "reading_time": 6,
+    "hashtag": ["#historical", "#mystery"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co/jbnKPK1/pexels-lukas-669622.jpg",
+    "title": "Beneath the Ocean's Veil",
+    "author": "Samantha Rowe",
+    "author_img": "https://i.ibb.co/4RZPHs4/pexels-norma-mortenson-4391228.jpg",
+    "posted_date": "2024-01-20",
+    "reading_time": 8,
+    "hashtag": ["#oceanMystery", "#adventure"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://i.ibb.co/DWnBry8/pexels-jess-bailey-designs-768474.jpg",
+    "title": "The Last Ember",
+    "author": "Elijah Smith",
+    "author_img": "https://i.ibb.co/q1xnvtB/pexels-houssam-benamara-16596884.jpg",
+    "posted_date": "2024-02-28",
+    "reading_time": 5,
+    "hashtag": ["#fantasy", "#epicJourney"]
+  }
+]
