@@ -11,12 +11,12 @@ export default function Blogs() {
     },[])
     console.log(bloges)
     return (
-        <div>
+        <div className="md:w-2/3">
 
             {
-                
+
             }
-            <h3>hello</h3>
+            <h2 className="text-4xl">Bloges</h2>
         </div>
     )
 }
